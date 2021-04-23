@@ -1,0 +1,11 @@
+com/consistentlearners/ipldashboard/entity/Team.class
+com/consistentlearners/ipldashboard/service/impl/MatchDataProcessor.class
+com/consistentlearners/ipldashboard/entity/MatchInput.class
+com/consistentlearners/ipldashboard/configuration/BatchConfiguration.class
+com/consistentlearners/ipldashboard/entity/Match.class
+com/consistentlearners/ipldashboard/IpldashboardApplication.class
+com/consistentlearners/ipldashboard/controller/TeamController.class
+com/consistentlearners/ipldashboard/service/impl/JobCompletionNotificationListener.class
+com/consistentlearners/ipldashboard/configuration/BatchConfiguration$1.class
+com/consistentlearners/ipldashboard/entity/repository/TeamRepository.class
+com/consistentlearners/ipldashboard/entity/repository/MatchRepository.class
